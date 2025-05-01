@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Zeyjen Media Hub</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Zeyjen Media Hub</h1>
+      <p class="tagline">Helping brands grow online through powerful content and digital support</p>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About Me</a></li>
+          <li><a href="#">Services</a></li>
+          <li><a href="#">Portfolio</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="intro">
+    <div class="container">
+      <h2>Welcome to Zeyjen Media Hub</h2>
+      <p>I help businesses and entrepreneurs grow their presence online with content creation, social media management, and virtual assistance.</p>
+      <a href="#" class="cta-button">View Services</a>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Zeyjen Media Hub. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>

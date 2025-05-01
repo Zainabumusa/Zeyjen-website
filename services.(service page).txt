@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Services - Zeyjen Media Hub</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Zeyjen Media Hub</h1>
+      <p class="tagline">Helping brands grow online through powerful content and digital support</p>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About Me</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="#">Portfolio</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="services">
+    <div class="container">
+      <h2>Services</h2>
+      <div class="service-list">
+
+        <div class="service-item">
+          <h3>Content Creation</h3>
+          <p>High-quality content tailored for blogs, websites, and social media platforms to engage your audience and build your brand identity.</p>
+        </div>
+
+        <div class="service-item">
+          <h3>Social Media Management</h3>
+          <p>Strategic planning, scheduling, and engagement across platforms like Instagram, Facebook, and LinkedIn to grow your online presence.</p>
+        </div>
+
+        <div class="service-item">
+          <h3>Virtual Assistance</h3>
+          <p>Reliable support with email management, calendar organization, research, and administrative tasks to help you stay focused.</p>
+        </div>
+
+        <div class="service-item">
+          <h3>Online Marketing</h3>
+          <p>Digital strategies including email campaigns, ad setup, and customer engagement to promote your brand and boost conversions.</p>
+        </div>
+
+        <div class="service-item">
+          <h3>Influencer Marketing</h3>
+          <p>Connecting your brand with influencers to build trust, expand reach, and drive customer action through authentic promotion.</p>
+        </div>
+
+        <div class="service-item">
+          <h3>Lead Generation</h3>
+          <p>Targeted lead capture strategies and tools to identify, attract, and convert potential customers for your business.</p>
+        </div>
+
+        <div class="service-item">
+          <h3>Cold Calling</h3>
+          <p>Professional outreach and follow-ups to help your business connect directly with potential clients and close more deals.</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Zeyjen Media Hub. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
