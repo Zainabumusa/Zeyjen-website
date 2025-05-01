@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About Me - Zeyjen Media Hub</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Zeyjen Media Hub</h1>
+      <p class="tagline">Helping brands grow online through powerful content and digital support</p>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About Me</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="#">Portfolio</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <section class="about">
+    <div class="container">
+      <h2>About Me</h2>
+      <p>Hello! I'm the founder of Zeyjen Media Hub — a passionate freelancer helping businesses thrive online. I specialize in content creation, virtual assistance, social media management, and online marketing.</p>
+      <p>With a strong background in organization, creativity, and communication, I bring a client-focused approach to every project. Whether it's designing graphics, managing emails, or boosting social presence, I’m here to make digital success simple and effective for you.</p>
+      <p>Let’s work together to bring your vision to life — efficiently, professionally, and with a personal touch.</p>
+    </div>
+  </section>
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Zeyjen Media Hub. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
