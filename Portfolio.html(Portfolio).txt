@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio - Zeyjen Media Hub</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Zeyjen Media Hub</h1>
+      <p class="tagline">Helping brands grow online through powerful content and digital support</p>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About Me</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="portfolio.html">Portfolio</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <section class="portfolio">
+    <div class="container">
+      <h2>My Work</h2>
+      <p>Below are some highlights of projects I've worked on. More coming soon!</p>
+      <div class="portfolio-grid">
+        <div class="portfolio-item">
+          <h3>Instagram Campaign</h3>
+          <p>Boosted engagement by 40% through targeted social content and consistent branding.</p>
+        </div>
+        <div class="portfolio-item">
+          <h3>Blog Article Writing</h3>
+          <p>Created optimized articles for SEO and readability to increase organic traffic.</p>
+        </div>
+        <div class="portfolio-item">
+          <h3>Email Inbox Revamp</h3>
+          <p>Organized inbox and implemented automated templates for faster responses.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Zeyjen Media Hub. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
